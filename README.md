@@ -11,6 +11,9 @@ methodology-ml-project/
 │   └── processed/                    # Données enrichies avec features avancées
 │       └── stores_sales_forecasting_processed.csv
 │
+├── instructions/
+│   ├── instructions.md                # Instructions du projet
+│
 ├── models/
 │   ├── classifier_pipeline.joblib    # Pipeline complet de classification (prétraitement + XGBClassifier)
 │   └── regressor_pipeline.joblib     # Pipeline complet de régression (prétraitement + XGBRegressor)
