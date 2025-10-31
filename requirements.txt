@@ -1,0 +1,28 @@
+
+ipython
+jupyterlab
+notebook
+pip
+python-dotenv
+
+# Data manipulation
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# EDA automation
+ydata-profiling
+sweetviz
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+prophet
+
+# Code quality
+ruff
